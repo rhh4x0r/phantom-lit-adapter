@@ -1,4 +1,9 @@
-# LitElement TypeScript starter
+
+# Phantom Lit Adapter
+
+Exactly what I'm creating this for. Instructions on starter package below.
+
+## LitElement TypeScript starter
 
 This project includes a sample component using LitElement with TypeScript.
 
